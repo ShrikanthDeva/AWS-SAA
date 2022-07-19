@@ -1,6 +1,5 @@
 # AWS-SAA
 AWS - Solution Architect Associate
 
-+ EAlloo There Mate !
-+ Hola amigo !
-+ Hola seniorita !
++ 1. [IAM](1.%20IAM.md) 
++ 2. [EC2](2.%20EC2.md)
