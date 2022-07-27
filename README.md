@@ -7,3 +7,4 @@ AWS - Solution Architect Associate
 4. [EC2 Instance Storage](4.%20EC2%20-%20Instance%20Storage.md)
 5. [ELB & ASG](5.%20ELB%20&%20ASG.md)
 6. [RDS, Aurora & ElastiCache](6.%20RDS%20,%20Aurora%20&%20ElastiCache.md)
+7. [Route-53](7.%20Route-53.md)
